@@ -26,4 +26,4 @@ private static void User_PropertyChanged(object sender, PropertyChangedEventArgs
 
 ```
 
-* All credits to Graham Murray
+* All credits to Graham Murray https://grahammurray.wordpress.com/2010/04/13/dynamically-generating-types-to-implement-inotifypropertychanged/
